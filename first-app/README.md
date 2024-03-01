@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+==> Routing :
+-->File system based routing mechanism
+--> When a file is added to the pages folder in the project
+--> by default all the files becomes avaliable as a route.
+==> dynemic routing
+
 ## Getting Started
 
 First, run the development server:
